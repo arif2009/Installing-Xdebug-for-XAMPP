@@ -50,3 +50,11 @@ Open php command line (XAMPP Control Panel > Shell), you will see something like
 * Add `"php.validate.executablePath": "C:\\xampp\\php\\php.exe"`
 * Debug > Settings icone > Choose PHP, it will create a file named **launch.json**. <br/>
 Setting is done, now you can put breakpoint and debug. If you need mode details visit [PHP Debug Adapter for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) 
+
+## Netbeans
+
+* Change the Netbeans [debugging options](https://netbeans.org/kb/docs/php/debugging.html#options)
+
+## Adobe Brackets
+
+* Install the [PHP Debugger for Brackets](https://github.com/spocke/php-debugger).
