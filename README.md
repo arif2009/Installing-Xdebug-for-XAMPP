@@ -34,3 +34,8 @@ xdebug.trace_output_dir = "c:\xampp\tmp"
 xdebug.remote_cookie_expire_time = 36000
 ```
 * Stop/Start Apache
+
+## Verify Instalation
+Open php command line (XAMPP Control Panel > Shell), you will see something like 
+
+![Verify Instalation](https://github.com/arif2009/Installing-Xdebug-for-XAMPP/blob/master/xdebug.png)
