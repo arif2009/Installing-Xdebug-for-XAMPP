@@ -61,3 +61,6 @@ Setting is done, now you can put breakpoint and debug. If you need mode details 
 
 ### Author
 Arifur Rahman ( arif.rahman2009@gmail.com )
+
+##### License
+<a href="https://opensource.org/licenses/MIT">The MIT License</a> Copyright &copy; 2017 Arifur Rahman
