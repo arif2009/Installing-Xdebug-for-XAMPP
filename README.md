@@ -58,3 +58,6 @@ Setting is done, now you can put breakpoint and debug. If you need mode details 
 ## Adobe Brackets
 
 * Install the [PHP Debugger for Brackets](https://github.com/spocke/php-debugger).
+
+### Author
+Arifur Rahman ( arif.rahman2009@gmail.com )
